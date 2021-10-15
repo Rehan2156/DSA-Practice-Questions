@@ -1,7 +1,6 @@
 # DSA-Practice-Questions
 Solutions to most asked DSA questions.
-Topic: Binary Search
 
 Questions:
-1) The N-th root of an integer
+1) N-Meetings in one room : https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
 2) Matrix Median
